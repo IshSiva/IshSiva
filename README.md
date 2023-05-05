@@ -7,11 +7,11 @@ My GitHub profile presents a compilation of projects that I have worked on in th
 
 When I am not working on CS-related stuff, I love reading books, playing chess and listening to music. I am also a big fan of TV sitcoms like Brooklyn Nine-Nine and F.R.I.E.N.D.S. 
 
-[![EMAIL](https://t4.ftcdn.net/jpg/05/25/22/63/360_F_525226337_x7lLRcnU08vDLkijRwgcbaIs8zCfDktC.jpg)](ishsiva@gatech.edu)
+<!-- [![EMAIL](https://t4.ftcdn.net/jpg/05/25/22/63/360_F_525226337_x7lLRcnU08vDLkijRwgcbaIs8zCfDktC.jpg)](ishsiva@gatech.edu)
 [![LINKEDIN](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)](https://in.linkedin.com/in/ishwarya-sivakumar)
 [![WEBSITE](https://e7.pngegg.com/pngimages/60/327/png-clipart-globe-world-computer-icons-website-miscellaneous-text-thumbnail.png)](https://ishsiva.github.io/my-website/)
 
-
+ -->
 
 
 <!--
